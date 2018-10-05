@@ -621,6 +621,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Network specialist, code n00b
 - Github: [Daniel Tudares](https://github.com/dan1eltudares)
 
+#### Name: [Daniel Volz](https://github.com/qToastii)
+- Place: Hannover, Germany
+- Bio: IT System Electronics, Not that good at coding 
+- Github: [Daniel Volz](https://github.com/qToastii)
+
 #### Name: [Darsh Naik](https://github.com/DarshNaik)
 - Place: India
 - Bio: Computer Engineering student
